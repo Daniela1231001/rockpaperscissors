@@ -5,5 +5,13 @@
 //GLOBAL VARIABLES
 /* global $ */
 
+$(".shoot").click(function(){
+
+    var num 
+    
+let num = Math.random(0);
+let User= $("")
+
+});
 
 
